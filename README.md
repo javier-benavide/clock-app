@@ -21,4 +21,4 @@ For the real-time exercise you need to build a mobile App with React Native and 
 
 show a visualization of a clock.
 
-You will find more details of the exercise inside the file **XXX.ts**
+You will find more details of the exercise inside the file **App.tsx**
