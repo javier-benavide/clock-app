@@ -10,6 +10,7 @@
  * You can find more info on "http://worldtimeapi.org/"
  * 
  * Extra 1(not core): make a timer 
+ * Extra 2(not core): make the timezone selectable by the users
  * 
  * Finally you have 60 minutes to create and build the best clock app on your opinion,
  * how you prioritize and build the app components is a core part of the test
