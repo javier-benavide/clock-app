@@ -8,7 +8,7 @@ Hi! Welcome to the real-time exercise of Neat's interview.
 
 The first thing is to configure your environment. To do this you need to follow the next steps:
 
-1. Go to [React Native page](https://reactnative.dev/docs/environment-setup), and follow the configuration steps depending on your OS
+1. Go to [React Native page](https://reactnative.dev/docs/environment-setup), and follow the configuration steps of **React Native CLI Quickstart**, depending on your OS
 and use Android as target OS.
   *If you have problems while installing the JDK you can manually download it at [Oracle](https://www.oracle.com/cl/java/technologies/javase/jdk11-archive-downloads.html) and add manually the environment variable **JAVA_HOME**
 
