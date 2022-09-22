@@ -17,30 +17,13 @@
  */
 
 import React from 'react';
-import {
-  Image,
-  StyleSheet,
-  Text,
-  View,
-} from 'react-native';
+import { Clock } from './components/Clock';
 
 
 const App = () => {
 
   return (
-          <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-            <Image
-          source={{
-            uri: 'https://app.neatpagos.com/assets/img/icons/neat-icon-logo-circle.png',
-          }}
-          style={{ width: 200, height: 200 }}
-        />
-      <Text style={{
-          fontSize: 32
-        }}>
-        Welcome to the Neat's technical interview! 🎉
-      </Text>
-    </View>
+    <Clock/>
   );
 };
 
