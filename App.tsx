@@ -16,32 +16,12 @@
  * how you prioritize and build the app components is a core part of the test
  */
 
-import React from 'react';
-import {
-  Image,
-  StyleSheet,
-  Text,
-  View,
-} from 'react-native';
+  import ClockScreen from "./src/screens/ClockScreen";
 
-
-const App = () => {
-
-  return (
-          <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-            <Image
-          source={{
-            uri: 'https://app.neatpagos.com/assets/img/icons/neat-icon-logo-circle.png',
-          }}
-          style={{ width: 200, height: 200 }}
-        />
-      <Text style={{
-          fontSize: 32
-        }}>
-        Welcome to the Neat's technical interview! 🎉
-      </Text>
-    </View>
-  );
-};
-
-export default App;
+  const App = () => {
+      return (
+          <ClockScreen />
+      )
+  };
+  
+  export default App;
